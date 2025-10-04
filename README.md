@@ -68,3 +68,10 @@ Replace with your actual deployed API Gateway invoke URL.
 6. Test
 Open index.html in any browser and ask a question!
 
+Author
+Onyekachi Emmanuel
+DevOps Engineer | AWS | Terraform | Docker | CI/CD | Kubernetes
+https://www.linkedin/in/onyeka-godwin
+If you like this project, consider giving it a ⭐ to support!
+
+
