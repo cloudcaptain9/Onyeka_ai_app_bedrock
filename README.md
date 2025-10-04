@@ -71,7 +71,7 @@ Open index.html in any browser and ask a question!
 Author
 Onyekachi Emmanuel
 DevOps Engineer | AWS | Terraform | Docker | CI/CD | Kubernetes
-https://www.linkedin/in/onyeka-godwin
+https://www.linkedin.com/in/onyeka-godwin
 If you like this project, consider giving it a ⭐ to support!
 
 
